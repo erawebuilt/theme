@@ -1,6 +1,6 @@
 {
-    "name": "nero...........2!",
-    "description": "Safe starter preset.",
+    "name": "newo",
+    "description": "trying desperately.",
     "version": "1",
     "authors": [
         {
@@ -733,7 +733,7 @@
     },
     "background": {
         "url": "https://i.imgur.com/f31UMnY.jpeg",
-        "alpha": 0.4
+        "alpha": 0.3
     },
     "plus": {
         "version": 0,
