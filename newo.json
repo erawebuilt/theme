@@ -356,8 +356,8 @@
         "YELLOW_660": "#ead37b",
         "YELLOW_700": "#ead37b",
         "WHITE_500": "#ffffff",
-        "WHITE_630": "#e15d59",
-        "ROLE_DEFAULT": "#e15d59"
+        "WHITE_630": "#fffbed",
+        "ROLE_DEFAULT": "#fffbed"
     },
     "background": {
         "blur": 0.1,
