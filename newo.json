@@ -94,10 +94,10 @@
             "#0f0f12"
         ],
         "CHANNELS_DEFAULT": [
-            "#e15d59"
+            "#fffbed"
         ],
         "CHANNEL_ICON": [
-            "#e15d59"
+            "#fffbed"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#11110f"
@@ -106,10 +106,10 @@
             "#11110f"
         ],
         "HEADER_PRIMARY": [
-            "#e15d59"
+            "#fffbed"
         ],
         "HEADER_SECONDARY": [
-            "#e15d59"
+            "#fffbed"
         ],
         "INTERACTIVE_ACTIVE": [
             "#e15d59"
@@ -118,7 +118,7 @@
             "#e15d59"
         ],
         "INTERACTIVE_MUTED": [
-            "#e15d59"
+            "#fffbed"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -148,7 +148,7 @@
             "#e48eec"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#e15d59"
+            "#fffbed"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#e15d59"
@@ -181,7 +181,7 @@
             "#e15d59"
         ],
         "TEXT_MUTED": [
-            "#e15d59"
+            "#fffbed"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -190,7 +190,7 @@
             "#e15d59"
         ],
         "TEXT_SECONDARY": [
-            "#e15d59"
+            "#fffbed"
         ],
         "BG_MOD_FAINT": [
             "#FFFFFF12"
@@ -257,15 +257,15 @@
         "BRAND_660": "#e15d59",
         "BRAND_700": "#e15d59",
         "BRAND_730": "#ffffff",
-        "PLUM_1": "#fffbed",
+        "PLUM_1": "#e15d59",
         "PLUM_3": "#e15d59",
         "PLUM_4": "#ffffff",
         "PLUM_6": "#ffffff",
         "PLUM_9": "#ffffff",
-        "PLUM_10": "#fffbed",
+        "PLUM_10": "#e15d59",
         "PLUM_11": "#e15d59",
-        "PLUM_13": "#fffbed",
-        "PLUM_15": "#fffbed",
+        "PLUM_13": "#e15d59",
+        "PLUM_15": "#e15d59",
         "PLUM_16": "#121214",
         "PLUM_17": "#11110f",
         "PLUM_18": "#11110f",
