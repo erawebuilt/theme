@@ -290,7 +290,7 @@
         "PRIMARY_645": "#11110f",
         "PRIMARY_660": "#121214",
         "PRIMARY_700": "#0c0c0e",
-        "PRIMARY_730": "#fffbed",
+        "PRIMARY_730": "#e15d59",
         "PRIMARY_800": "#0f0f12",
         "GREEN_260": "#81ea7d",
         "GREEN_300": "#81ea7d",
@@ -356,7 +356,7 @@
         "YELLOW_660": "#ead37b",
         "YELLOW_700": "#ead37b",
         "WHITE_500": "#ffffff",
-        "WHITE_630": "#e15d59",
+        "WHITE_630": "#fffbed",
         "ROLE_DEFAULT": "#fffbed"
     },
     "background": {
