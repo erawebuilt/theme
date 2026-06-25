@@ -109,7 +109,7 @@
             "#fffbed"
         ],
         "HEADER_SECONDARY": [
-            "#e15d59"
+            "#fffbed"
         ],
         "INTERACTIVE_ACTIVE": [
             "#e15d59"
@@ -118,7 +118,7 @@
             "#e15d59"
         ],
         "INTERACTIVE_MUTED": [
-            "#fffbed"
+            "#e15d59"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
