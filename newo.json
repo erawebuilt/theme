@@ -360,6 +360,7 @@
         "ROLE_DEFAULT": "#bc8751"
     },
     "background": {
+        "blur": 0.3,
         "url": "https://i.imgur.com/f31UMnY.jpeg",
         "alpha": 0.4
     },
