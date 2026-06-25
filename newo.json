@@ -10,13 +10,13 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#fc838c"
+            "#665464"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#fc838c"
+            "#665464"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -97,7 +97,7 @@
             "#bc8751"
         ],
         "CHANNEL_ICON": [
-            "#bc8751"
+            "#ffffff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#000000"
@@ -178,7 +178,7 @@
             "#8efd8280"
         ],
         "TEXT_LINK": [
-            "#fc838c"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
             "#bc8751"
