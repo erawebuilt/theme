@@ -94,7 +94,7 @@
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#bc8751"
+            "#ffffff"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
@@ -258,10 +258,10 @@
         "BRAND_700": "#fc838c",
         "BRAND_730": "#ffffff",
         "PLUM_1": "#fc838c",
-        "PLUM_3": "#fc838c",
+        "PLUM_3": "#bc8751",
         "PLUM_4": "#fc838c",
         "PLUM_6": "#ffffff",
-        "PLUM_9": "#fc838c",
+        "PLUM_9": "#bc8751",
         "PLUM_10": "#ffffff",
         "PLUM_11": "#fc838c",
         "PLUM_13": "#ffffff",
