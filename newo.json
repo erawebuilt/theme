@@ -181,7 +181,7 @@
             "#e15d59"
         ],
         "TEXT_MUTED": [
-            "#e15d59"
+            "#fffbed"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -190,7 +190,7 @@
             "#e15d59"
         ],
         "TEXT_SECONDARY": [
-            "#fffbed"
+            "#e15d59"
         ],
         "BG_MOD_FAINT": [
             "#FFFFFF12"
