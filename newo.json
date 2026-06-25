@@ -1,10 +1,10 @@
 {
-    "name": "newo",
-    "description": "and hakunon.",
-    "version": "1",
+    "name": "Purple Vision (Alpha Mobile)",
+    "description": "Crisp purple accents on a deep dark UI.",
+    "version": "3",
     "authors": [
         {
-            "name": "era",
+            "name": "Your Name",
             "id": "000000000000000000"
         }
     ],
@@ -257,12 +257,12 @@
         "BRAND_660": "#e15d59",
         "BRAND_700": "#e15d59",
         "BRAND_730": "#ffffff",
-        "PLUM_1": "#e15d59",
+        "PLUM_1": "#ffffff",
         "PLUM_3": "#e15d59",
         "PLUM_4": "#ffffff",
         "PLUM_6": "#ffffff",
         "PLUM_9": "#fffbed",
-        "PLUM_10": "#fcb99c",
+        "PLUM_10": "#fffbed",
         "PLUM_11": "#fffbed",
         "PLUM_13": "#fffbed",
         "PLUM_15": "#e15d59",
