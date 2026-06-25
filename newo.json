@@ -115,7 +115,7 @@
             "#e15d59"
         ],
         "INTERACTIVE_HOVER": [
-            "#fcb99c"
+            "#e15d59"
         ],
         "INTERACTIVE_MUTED": [
             "#fffbed"
@@ -251,7 +251,7 @@
         "BRAND_460": "#e15d59",
         "BRAND_500": "#e15d59",
         "BRAND_530": "#e15d59",
-        "BRAND_560": "#fcb99c",
+        "BRAND_560": "#e15d59",
         "BRAND_600": "#e15d59",
         "BRAND_630": "#e15d59",
         "BRAND_660": "#e15d59",
@@ -281,7 +281,7 @@
         "PRIMARY_300": "#e15d59",
         "PRIMARY_330": "#ffffff",
         "PRIMARY_360": "#e15d59",
-        "PRIMARY_400": "#fcb99c",
+        "PRIMARY_400": "#e15d59",
         "PRIMARY_460": "#121214",
         "PRIMARY_500": "#e15d59",
         "PRIMARY_530": "#e15d59",
