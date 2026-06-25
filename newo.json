@@ -1,10 +1,10 @@
 {
-    "name": "Purple Vision (Alpha Mobile)",
-    "description": "Crisp purple accents on a deep dark UI.",
-    "version": "3",
+    "name": "newo",
+    "description": "and hakunon!",
+    "version": "1",
     "authors": [
         {
-            "name": "Your Name",
+            "name": "era",
             "id": "000000000000000000"
         }
     ],
@@ -151,7 +151,7 @@
             "#fffbed"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#ffffff"
+            "#fcb99c"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#11110f"
