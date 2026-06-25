@@ -118,7 +118,7 @@
             "#e15d59"
         ],
         "INTERACTIVE_MUTED": [
-            "#e15d59"
+            "#fffbed"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -181,7 +181,7 @@
             "#e15d59"
         ],
         "TEXT_MUTED": [
-            "#fffbed"
+            "#e15d59"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
