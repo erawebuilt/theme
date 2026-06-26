@@ -16,7 +16,7 @@
             "#11110f"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#e15d59"
+            "#fcb99c"
         ],
         "INTERACTIVE_TEXT_ACTIVE": [
             "#e15d59"
@@ -233,7 +233,7 @@
         "BLUE_260": "#5a76a8",
         "BLUE_300": "#5a76a8",
         "BLUE_330": "#5a76a8",
-        "BLUE_345": "#5a76a8",
+        "BLUE_345": "#e15d59",
         "BLUE_360": "#5a76a8",
         "BLUE_400": "#5a76a8",
         "BLUE_430": "#5a76a8",
