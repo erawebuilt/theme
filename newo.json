@@ -18,6 +18,9 @@
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#e15d59"
         ],
+        "INTERACTIVE_TEXT_ACTIVE": [
+            "#e15d59"
+        ],
         "BACKGROUND_ACCENT": [
             "#e15d59"
         ],
@@ -265,7 +268,7 @@
         "PLUM_4": "#ffffff",
         "PLUM_6": "#ffffff",
         "PLUM_9": "#ffffff",
-        "PLUM_10": "#e15d59",
+        "PLUM_10": "#fffbed",
         "PLUM_11": "#e15d59",
         "PLUM_13": "#fffbed",
         "PLUM_15": "#fffbed",
